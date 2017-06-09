@@ -1,5 +1,4 @@
 # child-process-exercise
 
 
- * This SMall Module Illustrates How can we perform CPU Intensive Operations on a child process
- * as it can block the main process
+ * This Small exercise Illustrates How can we perform CPU Intensive Operations on a child process as they can block the main process
